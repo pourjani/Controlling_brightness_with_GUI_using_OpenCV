@@ -2,7 +2,7 @@
 import numpy as np
 import cv2
 
-# %%
+
 img = cv2.imread('./images/character.png')
 img = cv2.resize(img,(300,300),interpolation=cv2.INTER_AREA)
 cv2.imshow('Original image',img)
@@ -10,10 +10,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-# %% [markdown]
-# # Controlling Brightness of Image
+#  Controlling Brightness of Image
 
-# %%
+
 def nothing(x):
     pass
 cv2.namedWindow('Brightness Control')
