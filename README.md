@@ -5,12 +5,6 @@ This project demonstrates a simple yet powerful technique for controlling the **
 
 ---
 
-## 🎞 Demo
-
-![DEMO](sample.gif)
-
----
-
 ## ✨ Features
 
 - 🔄 Real-time frame processing using OpenCV
