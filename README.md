@@ -1,6 +1,8 @@
 # 🎥 Real-Time Video/image Brightness Control with OpenCV
 
 This project demonstrates a simple yet powerful technique for controlling the **brightness** of a video/image **in real time** using OpenCV. An interactive GUI trackbar (slider) lets users increase or decrease brightness dynamically while the video plays.
+
+
 ![SAMPLE GIF](sample.gif)
 
 ---
